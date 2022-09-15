@@ -1,4 +1,5 @@
-flask
-python-dotenv
-pymongo[srv]
+flask~=2.2.2
+pymongo[srv]~=4.2.0
 gunicorn
+dnspython~=2.2.1
+python-dotenv
